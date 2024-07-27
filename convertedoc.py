@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import openpyxl
+import openpyxl as xl
 from PIL import Image
 
 # Carregar a logo no menu lateral com tamanho de 150x150 pixels
